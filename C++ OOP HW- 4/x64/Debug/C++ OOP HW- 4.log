@@ -1,0 +1,12 @@
+﻿  OOP Main4.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(100,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(114,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(134,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(273,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(279,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(303,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(317,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(359,48): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\Out Of Classes.h(391,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\C++ OOP HW- 4\OOP Main4.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C++ OOP HW- 4.vcxproj -> D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW- 4\x64\Debug\C++ OOP HW- 4.exe
